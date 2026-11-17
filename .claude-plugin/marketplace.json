@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "marketing",
+  "description": "Acht Werkzeuge für dein Marketing, und alles klingt nach dir.",
+  "owner": {
+    "name": "Christopher Thanisch",
+    "url": "https://thanisch.co"
+  },
+  "plugins": [
+    {
+      "name": "marketing",
+      "description": "Macht das Marketing in deiner Stimme: Markenstimme, Content-Plan, Bewertungen, Erfolgsgeschichten, Recycler, Landingpage, Lead Magnet, Newsletter.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
